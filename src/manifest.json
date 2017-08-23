@@ -1,0 +1,14 @@
+{
+  "name": "conditional form",
+  "short_name": "conditional form",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "icons": {
+    "src": "/assets/icons/fiipenet-icon-192x192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }
+}
